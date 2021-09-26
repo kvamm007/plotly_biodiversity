@@ -1,0 +1,15 @@
+.jumbotron {
+    background-image:url("germs.jfif");
+    background-size:cover;
+    text-align:center;
+    color:snow;
+}
+
+body {
+    font-family: "Courier New";
+}
+
+body  {
+
+    background-color: #f0fff0
+}
