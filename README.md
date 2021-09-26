@@ -1,6 +1,6 @@
-# plotly_biodiversity
+Belly Button Biodiversity Dashboard
 
-Direct link to webpage: 
+Direct link to webpage: https://kvamm007.github.io/plotly_biodiversity/
 
 Created dashboard based on provided data for belly button biodiversity project. Dashboard shows the following:
 - Subject ID and relevant subject demographics
